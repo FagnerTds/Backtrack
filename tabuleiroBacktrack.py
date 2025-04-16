@@ -42,9 +42,9 @@ def proximo_movimento(tabuleiro, linha_atual, coluna_atual, profundidade):
 
 def main():
     tabuleiro = [
-        [" ", "X", "X", " "],
         [" ", " ", " ", " "],
-        [" ", " ", " ", "X"],
+        [" ", " ", " ", " "],
+        [" ", " ", " ", " "],
         ["*", " ", "X", " "]
     ]
 
